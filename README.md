@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/erkutkoral/KMeans-Hierarchical-Clustered-Retail-RFM">
-    <img src="https://www.slidesalad.com/wp-content/uploads/2020/07/RFM-Customer-Segmentation-Model-PowerPoint-Templates-Slides.jpg" alt="Logo" width="600" height="600">
+    <img src="https://www.slidesalad.com/wp-content/uploads/2020/07/RFM-Customer-Segmentation-Model-PowerPoint-Templates-Slides.jpg" alt="Logo" width="400" height="400">
   </a>
 
   <h3 align="center">KMeans and Hierarchical Clustered RFM Analyisis with Retail Data</h3>
